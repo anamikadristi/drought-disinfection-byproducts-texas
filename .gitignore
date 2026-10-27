@@ -1,0 +1,10 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Documents
+*.docx
+*.doc
+.DS_Store
